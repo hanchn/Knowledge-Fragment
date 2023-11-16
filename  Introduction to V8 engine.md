@@ -1,3 +1,5 @@
+[< Back to the homepage](./README.md)
+
 HTMX 是一种高效的 HTML 工具，它可以让你直接在 HTML 中使用 AJAX、CSS 过渡、WebSockets 和服务器发送的事件。这意味着你可以使用属性来构建现代用户界面，同时保持超文本的简单性和强大性。
 
 HTMX 的体积很小（约 14k min.gz'd），无依赖，可扩展，兼容 IE11，并且与 React 相比，可以减少代码库大小的 67%。

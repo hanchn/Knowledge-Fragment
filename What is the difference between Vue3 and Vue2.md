@@ -1,4 +1,4 @@
-## What is the difference between Vue3 and Vue2
+[< Back to the homepage](./README.md)
 
 Vue2和Vue3有几个主要的区别：
 
