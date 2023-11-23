@@ -7,9 +7,3 @@ Java的运行时环境通常是指Java虚拟机（Java Virtual Machine，JVM）�
 JavaScript的运行时环境通常是指JavaScript引擎（JavaScript engine），它是一个解释器或者编译器，可以执行JavaScript源代码。JavaScript引擎的实现多如牛毛，有用C或C++实现的，例如V8，SpiderMonkey，Chakra等；也有用其他语言实现的，例如用Java实现的Rhino，用C#实现的Managed JScript，用JavaScript实现的Narcissus等。
 
 所以，Java和JavaScript的底层并不一定是C语言，而是取决于它们的运行时环境的实现。不过，由于C语言是一种广泛使用的、跨平台的、高效的、底层的编程语言，它在很多情况下是实现运行时环境的首选。
-
-Source: Conversation with Bing, 2023/11/23
-(1) java和虚拟机的底层实现是c语言吗？ - 知乎. https://www.zhihu.com/question/273683819.
-(2) JavaScript的功能是不是都是靠C或者C++这种编译语言提供的？ - 知乎. https://www.zhihu.com/question/49176184.
-(3) Java 和 JavaScript 是什么关系？ - 知乎. https://www.zhihu.com/question/19913979.
-(4) 一文带你彻底搞懂Java和JavaScript的区别与相似之处(纯干货建议收藏)-腾讯云开发者社区-腾讯云. https://cloud.tencent.com/developer/article/1866556.
