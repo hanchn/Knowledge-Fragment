@@ -1,0 +1,15 @@
+## Java和JavaScript的底层是C语言吗
+
+这个问题没有一个简单的答案，因为不同的Java和JavaScript的实现可能使用不同的语言来编写。一般来说，Java和JavaScript都是高级编程语言，它们需要一个运行时环境（runtime environment）来执行它们的代码。运行时环境可以用C语言或者其他语言来实现，这取决于开发者的选择和目标平台的特性。
+
+Java的运行时环境通常是指Java虚拟机（Java Virtual Machine，JVM），它是一个抽象的计算机，可以执行Java字节码（Java bytecode）。Java字节码是Java源代码经过编译后的中间表示，它可以在不同的平台上运行，只要有相应的JVM实现。Java的最常用的JVM实现是OpenJDK和OracleJDK里的Hotspot，它是用C、C++和汇编混写的³。但是也有用其他语言实现的JVM，例如用Java实现的Maxine VM，用C#实现的IKVM.NET，用JavaScript实现的DoppioJVM等。
+
+JavaScript的运行时环境通常是指JavaScript引擎（JavaScript engine），它是一个解释器或者编译器，可以执行JavaScript源代码。JavaScript引擎的实现多如牛毛，有用C或C++实现的，例如V8，SpiderMonkey，Chakra等；也有用其他语言实现的，例如用Java实现的Rhino，用C#实现的Managed JScript，用JavaScript实现的Narcissus等。
+
+所以，Java和JavaScript的底层并不一定是C语言，而是取决于它们的运行时环境的实现。不过，由于C语言是一种广泛使用的、跨平台的、高效的、底层的编程语言，它在很多情况下是实现运行时环境的首选。
+
+Source: Conversation with Bing, 2023/11/23
+(1) java和虚拟机的底层实现是c语言吗？ - 知乎. https://www.zhihu.com/question/273683819.
+(2) JavaScript的功能是不是都是靠C或者C++这种编译语言提供的？ - 知乎. https://www.zhihu.com/question/49176184.
+(3) Java 和 JavaScript 是什么关系？ - 知乎. https://www.zhihu.com/question/19913979.
+(4) 一文带你彻底搞懂Java和JavaScript的区别与相似之处(纯干货建议收藏)-腾讯云开发者社区-腾讯云. https://cloud.tencent.com/developer/article/1866556.
