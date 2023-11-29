@@ -7,12 +7,12 @@ Notepad++是一款免费的文本编辑器，它可以用来编辑纯文本文�
 - 它功能强大，支持语法高亮，代码折叠，自动补全，正则表达式，多文档编辑，多视图同步，宏，插件等。
 - 它轻量级，占用资源少，启动速度快，运行稳定。
 
-如果你想了解更多关于Notepad++的信息，你可以访问它的官网¹，或者查看它的维基百科²，或者阅读一些相关的文章³⁴⁵。.
 
-Source: Conversation with Bing, 2023/11/29
-(1) Notepad++ - 知乎. https://www.zhihu.com/topic/19572058/intro.
-(2) Notepad++ - 維基百科，自由的百科全書. https://zh.wikipedia.org/zh-tw/Notepad%2B%2B.
-(3) Notepad++介绍与安装-阿里云开发者社区. https://developer.aliyun.com/article/1285639.
-(4) 如何优雅地使用notepad++？ - 知乎. https://www.zhihu.com/question/40647655.
-(5) Notepad++介绍与安装_nopade++ ;安装-CSDN博客. https://blog.csdn.net/weixin_61885496/article/details/128356727.
-(6) en.wikipedia.org. https://en.wikipedia.org/wiki/Notepad%2B%2B.
+
+VS Code和Notepad++相比，有以下几个优势：
+
+- VS Code可以打开比较大的文件，不会卡顿，而Notepad++打开几十兆的日志文件就很慢。
+- VS Code有丰富的插件市场，可以支持各种语言和功能的扩展，而Notepad++的插件相对较少。
+- VS Code社区活跃，更新频率高，可以及时修复bug和增加新特性，而Notepad++的作者有时会作妖。
+- VS Code的批量操作和Notepad++类似，都可以使用Alt+Shift+光标来操作多行，而且VS Code还有更多的快捷键和命令。
+- VS Code的查找功能也很强大，可以像Notepad++一样把结果列出来，还可以支持正则表达式和替换。
